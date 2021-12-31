@@ -1,0 +1,478 @@
+[Message:   BepInEx] BepInEx 5.4.17.0 - valheim (08/11/2021 13:36:58)
+[Info   :   BepInEx] Running under Unity v2019.4.31.12409535
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.17.0]
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.MonoMod.HookGenPatcher 1.2.0.0]
+[Info   :   BepInEx] 2 patcher plugins loaded
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 55 plugins to load
+[Info   :   BepInEx] Loading [CartographySkill 2.1.0]
+[Info   :   BepInEx] Loading [PlantEverything 1.9.1]
+[Info   :   BepInEx] Loading [Animation Speed 0.8.0]
+[Info   :   BepInEx] Loading [AutoSplitStack 0.2.0]
+[Info   :   BepInEx] Loading [Backpack Redux 0.5.0]
+[Info   :   BepInEx] Loading [Building Demolish 0.5.0]
+[Info   :   BepInEx] Loading [Building Repair 0.2.0]
+[Info   :   BepInEx] Loading [Console Tweaks 0.5.0]
+[Info   :   BepInEx] Loading [Controller Button Switch 0.3.0]
+[Info   :   BepInEx] Loading [Crafting Filter 0.5.1]
+[Info   : Unity Log] CraftingFilter Loaded20 categories
+[Warning:  HarmonyX] AccessTools.DeclaredMethod: Could not find method for type Console and name InputText and parameters 
+[Warning:  HarmonyX] Unknown patch - Could not find method InputText with 0 parameters in type Console, but it was found in base class of this type Terminal
+[Info   :   BepInEx] Loading [Custom Container Sizes 0.6.0]
+[Info   :   BepInEx] Loading [Custom Graphics Settings 0.7.0]
+[Info   :   BepInEx] Loading [Death Tweaks 0.8.1]
+[Info   :   BepInEx] Loading [Discard Dropped Items 0.1.2]
+[Info   :   BepInEx] Loading [Discard or Recycle Inventory Items 0.7.0]
+[Info   :   BepInEx] Loading [Equip Multiple Utility Items 0.2.2]
+[Warning:  HarmonyX] AccessTools.DeclaredMethod: Could not find method for type Console and name InputText and parameters 
+[Warning:  HarmonyX] Unknown patch - Could not find method InputText with 0 parameters in type Console, but it was found in base class of this type Terminal
+[Info   :   BepInEx] Loading [Grass Tweaks 0.2.0]
+[Info   :   BepInEx] Loading [Hotbar Switch 0.1.1]
+[Warning:  HarmonyX] AccessTools.DeclaredMethod: Could not find method for type Console and name InputText and parameters 
+[Warning:  HarmonyX] Unknown patch - Could not find method InputText with 0 parameters in type Console, but it was found in base class of this type Terminal
+[Info   :   BepInEx] Loading [Map Coordinate Display 0.3.0]
+[Warning:  HarmonyX] AccessTools.DeclaredMethod: Could not find method for type Console and name InputText and parameters 
+[Warning:  HarmonyX] Unknown patch - Could not find method InputText with 0 parameters in type Console, but it was found in base class of this type Terminal
+[Info   :   BepInEx] Loading [Map Teleport 0.5.0]
+[Info   :   BepInEx] Loading [Quick Store 0.2.0]
+[Info   :   BepInEx] Loading [Recipe Customization 0.5.1]
+[Info   :   BepInEx] Loading [Regeneration 0.3.1]
+[Info   :   BepInEx] Loading [Simple Sort 0.7.0]
+[Warning:  HarmonyX] AccessTools.DeclaredMethod: Could not find method for type Console and name InputText and parameters 
+[Warning:  HarmonyX] Unknown patch - Could not find method InputText with 0 parameters in type Console, but it was found in base class of this type Terminal
+[Info   :   BepInEx] Loading [Terrain Reset 0.7.0]
+[Info   :   BepInEx] Loading [Custom Raids 1.4.0]
+[Info   :Custom Raids] Loading configurations...
+[Info   :   BepInEx] Loading [Last Used Weapons 1.1.0.0]
+[Info   :   BepInEx] Loading [Jotunn 2.4.5]
+[Info   :    Jotunn] Initializing LocalizationManager
+[Info   :    Jotunn] Initializing CommandManager
+[Info   :    Jotunn] Initializing InputManager
+[Info   :    Jotunn] Initializing SkillManager
+[Info   :    Jotunn] Initializing PrefabManager
+[Info   :    Jotunn] Initializing ItemManager
+[Info   :    Jotunn] Initializing PieceManager
+[Info   :    Jotunn] Initializing MockManager
+[Info   :    Jotunn] Initializing KitbashManager
+[Info   :    Jotunn] Initializing GUIManager
+[Info   :    Jotunn] Initializing KeyHintManager
+[Info   :    Jotunn] Initializing ZoneManager
+[Info   :    Jotunn] Initializing NetworkManager
+[Info   :    Jotunn] Initializing SynchronizationManager
+[Info   :    Jotunn] Initializing RenderManager
+[Info   :    Jotunn] Initializing MinimapManager
+[Info   :    Jotunn] Jötunn v2.4.5 loaded successfully
+[Info   :   BepInEx] Loading [CropReplant 2.2.1]
+[Warning:Jotunn.Managers.KeyHintManager] Key hint config for item  already added
+[Info   :   BepInEx] Loading [SkToolbox 1.10.5.0]
+[Info   :   BepInEx] Loading [Veinmine 1.2.5]
+[Info   :   BepInEx] Loading [SeafloorWalkingBoots 1.0.2]
+[Info   :SeafloorWalkingBoots] Seafloor Walking Boots has arrived
+[Info   :   BepInEx] Loading [Hearthstone 1.0.2]
+[Info   :   BepInEx] Loading [Digitalroot SlopeCombatFix 2.0.0]
+[Info   :   BepInEx] Loading [EZBuild 1.1.4]
+[Info   :   BepInEx] Loading [CraftAll 0.0.1]
+[Info   :   BepInEx] Loading [Fish Overhaul 1.1]
+[Info   :   BepInEx] Loading [Generic Object Remover 1.1.1]
+[Info   :   BepInEx] Loading [Precise Piece Placement 1.1.0]
+[Info   :   BepInEx] Loading [PlanBuild 0.9.2]
+[Info   :PlanBuild.Plans.PlanManager] Initializing PlanManager
+[Error  : Unity Log] Desired shader compiler platform 18 is not available in shader blob
+[Info   :PlanBuild.Blueprints.BlueprintManager] Initializing BlueprintManager
+[Info   :PlanBuild.Blueprints.Marketplace.BlueprintSync] Loading known blueprints
+[Info   :   BepInEx] Loading [ValheimAdditionalRecipes 1.0.3]
+[Info   : Unity Log] [Recipes] Looking for baitrecipe.json in D:\Steam\steamapps\common\Valheim\BepInEx\config\AdditionalRecipes\baitrecipe.json
+[Info   : Unity Log] [Recipes] Looking for chainrecipe.json in D:\Steam\steamapps\common\Valheim\BepInEx\config\AdditionalRecipes\chainrecipe.json
+[Info   : Unity Log] [Recipes] Looking for dyrnwynrecipe.json in D:\Steam\steamapps\common\Valheim\BepInEx\config\AdditionalRecipes\dyrnwynrecipe.json
+[Info   : Unity Log] [Recipes] Recipe name Recipe_Bait
+[Info   : Unity Log] [Recipes] Recipe name Recipe_Chain
+[Info   : Unity Log] [Recipes] Recipe name Recipe_Chain
+[Info   : Unity Log] [Recipes] Recipe name Recipe_Chain
+[Info   : Unity Log] [Recipes] Recipe name Recipe_Dyrnwyn
+[Info   :   BepInEx] Loading [ReelySpecTackleLure 0.1.2]
+[Info   : Unity Log] ReelySpecTackleLure ReelySpecTackleLure awake
+[Info   :   BepInEx] Loading [RequipMe 0.1.1]
+[Info   : Unity Log] RequipMe Awake
+[Info   :   BepInEx] Loading [UnRemove 0.1.0]
+[Info   : Unity Log] UnRemove awake
+[Info   :   BepInEx] Loading [Wolfpack 0.9.8]
+[Info   :   BepInEx] Loading [Display BepInEx Info In-Game 2.0.0]
+[Info   :   BepInEx] Loading [Mead Base Icon Fix 1.0.2]
+[Info   :   BepInEx] Loading [Passive Forsaken Powers 1.0.1]
+[Info   :   BepInEx] Loading [RagnarsRökare CraftToStackMod 0.3]
+[Info   : Unity Log] Loading RagnarsRökare CraftToStackMod v0.3, Barg Bug Bash!
+[Info   :   BepInEx] Loading [Improved Build HUD 1.0.3]
+[Info   :   BepInEx] Loading [DisableBossRegeneration 1.0]
+[Info   :   BepInEx] Loading [invishelm 1.1.3]
+[Info   :   BepInEx] Loading [TopMining 1.0.1]
+[Info   :   BepInEx] Loading [Valheim Mod 1.0.0]
+[Info   : Unity Log] Fog: False
+[Info   :   BepInEx] Loading [Snap Points Made Easy 1.3.0]
+[Info   : Unity Log] Loaded settings!
+EnableModKey: Keypad0
+IterateSourceSnapPoints:Keypad1
+IterateDestinationSnapPoints:Keypad2
+[Message:   BepInEx] Chainloader startup complete
+[Info   : Unity Log] 12/31/2021 23:39:22: Starting to load scene:start
+
+[Info   : Unity Log] BackpackRedux Searching for old backpack mod
+[Info   : Unity Log] BackpackRedux Old plugin not found.
+[Info   : Unity Log] (SkToolbox) ->  (CONTROLLER) ->  (NOTIFY) -> LOADING... | WAITING FOR TOOLBOX.  
+[Info   : Unity Log] (SkToolbox) ->  (TOOLBOX) ->  (NOTIFY) -> LOADING... | MODULES LOADING...  
+[Info   : Unity Log] (SkToolbox) ->  (TOOLBOX) -> Apologies, command aliasing was broken by Hearth and Home and is disabled this patch. Fix is in progress.  
+[Info   : Unity Log] (SkToolbox) ->  (TOOLBOX) ->  (MODULE) ->  (NOTIFY) -> NAME: PLAYER | STATUS: READY  
+[Info   : Unity Log] (SkToolbox) ->  (TOOLBOX) ->  (MODULE) ->  (NOTIFY) -> NAME: WORLD | STATUS: READY  
+[Info   : Unity Log] (SkToolbox) ->  (TOOLBOX) ->  (MODULE) ->  (NOTIFY) -> NAME: CC CONTROLLER | STATUS: READY  
+[Info   : Unity Log] (SkToolbox) ->  (TOOLBOX) ->  (NOTIFY) -> 3 MODULES LOADED | TOOLBOX READY.  
+[Info   : Unity Log] (SkToolbox) ->  (CONTROLLER) ->  (NOTIFY) -> READY.  
+[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+[Info   : Unity Log] 12/31/2021 23:39:31: Valheim version:0.206.5
+
+[Info   :Jotunn.Managers.CommandManager] Adding 11 commands to the Console
+[Info   : Unity Log] 12/31/2021 23:39:31: Render threading mode:MultiThreaded
+
+[Info   : Unity Log] 12/31/2021 23:39:31: Using steam_appid.txt
+
+[Info   : Unity Log] 12/31/2021 23:39:31: Using steam APPID:892970
+
+[Info   : Unity Log] 12/31/2021 23:39:32: Authentication:k_ESteamNetworkingAvailability_Attempting
+
+[Info   : Unity Log] 12/31/2021 23:39:32: Steam initialized, persona:proudunicorn
+
+[Warning: Unity Log] 12/31/2021 23:39:32: Missing audio clip in music respawn
+
+[Info   : Unity Log] 12/31/2021 23:39:32: Checking for installed DLCs
+
+[Info   : Unity Log] 12/31/2021 23:39:32: DLC:beta installed:False
+
+[Info   : Unity Log] 12/31/2021 23:39:33: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 12/31/2021 23:39:33: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 12/31/2021 23:39:33: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 12/31/2021 23:39:33: Loaded localization CSV:localization_extra language:English
+
+[Info   :Jotunn.Managers.LocalizationManager] Loading custom localizations
+[Info   : Unity Log] 12/31/2021 23:39:33: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 12/31/2021 23:39:33: Loaded localization CSV:localization_extra language:English
+
+[Info   :Jotunn.Managers.LocalizationManager] Adding tokens for language 'English'
+[Info   : Unity Log] [Recipes] ObjectDB_Awake_Patch (0)
+[Info   : Unity Log] MeadBaseIconFix ObjectDb Awake Patch Start
+[Info   : Unity Log] MeadBaseIconFix ObjectDb Awake Patch End
+[Info   :Jotunn.Managers.KitbashManager] Applying Kitbash in 1 objects
+[Info   :Jotunn.Managers.ItemManager] Adding 4 custom items to the ObjectDB
+[Info   : Unity Log] [Recipes] ObjectDB_CopyOtherDB_Patch (423)
+[Info   : Unity Log] MeadBaseIconFix ObjectDB CopyOtherDb Patch Start
+[Info   : Unity Log] MeadBaseIconFix Updating icon for MeadBaseFrostResist
+[Info   : Unity Log] MeadBaseIconFix Updating icon for MeadBaseHealthMedium
+[Info   : Unity Log] MeadBaseIconFix Updating icon for MeadBaseHealthMinor
+[Info   : Unity Log] MeadBaseIconFix Updating icon for MeadBasePoisonResist
+[Info   : Unity Log] MeadBaseIconFix Updating icon for MeadBaseStaminaMedium
+[Info   : Unity Log] MeadBaseIconFix Updating icon for MeadBaseStaminaMinor
+[Info   : Unity Log] MeadBaseIconFix Updating icon for MeadBaseTasty
+[Info   : Unity Log] MeadBaseIconFix Updating icon for BarleyWineBase
+[Info   : Unity Log] MeadBaseIconFix ObjectDB CopyOtherDb Patch End
+[Info   : Unity Log] [Passive Forsaken Powers] Made GP_Bonemass status effect passive.
+[Info   : Unity Log] [Passive Forsaken Powers] Made GP_Eikthyr status effect passive.
+[Info   : Unity Log] [Passive Forsaken Powers] Made GP_Moder status effect passive.
+[Info   : Unity Log] [Passive Forsaken Powers] Made GP_TheElder status effect passive.
+[Info   : Unity Log] [Passive Forsaken Powers] Made GP_Yagluth status effect passive.
+[Info   :Jotunn.Managers.InputManager] Registering 18 custom inputs
+[Info   : Unity Log] 12/31/2021 23:39:34: Vis equip model set to 1
+
+[Info   : Unity Log] 12/31/2021 23:39:37: UI Group status changed Menu = True
+
+[Info   : Unity Log] 12/31/2021 23:39:39: UI Group status changed Menu = True
+
+[Info   : Unity Log] 12/31/2021 23:39:44: FOund selected Start game
+
+[Info   : Unity Log] 12/31/2021 23:39:44: show character selection
+
+[Info   : Unity Log] 12/31/2021 23:39:45: OnCharacterStart
+
+[Info   :Jotunn.Managers.CommandManager] Adding 11 commands to the Console
+[Info   : Unity Log] 12/31/2021 23:39:47: Loading player profile owl
+
+[Info   : Unity Log] 12/31/2021 23:39:47: Zonesystem Awake 265
+
+[Info   : Unity Log] 12/31/2021 23:39:47: DungeonDB Awake 265
+
+[Info   : Unity Log] 12/31/2021 23:39:47: Steam initialized, persona:proudunicorn
+
+[Info   : Unity Log] Registered 'advize.CartographySkill ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'advize.PlantEverything ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] [Recipes] ZNetScene_Awake_Patch
+[Info   : Unity Log] RecipeCustomization Looking for crafting station $piece_workbench
+[Info   : Unity Log] RecipeCustomization got crafting station $piece_workbench
+[Info   : Unity Log] RecipeCustomization Looking for crafting station $piece_workbench
+[Info   : Unity Log] RecipeCustomization got crafting station $piece_workbench
+[Info   : Unity Log] RecipeCustomization Looking for crafting station $piece_workbench
+[Info   : Unity Log] RecipeCustomization got crafting station $piece_workbench
+[Info   : Unity Log] RecipeCustomization Looking for crafting station $piece_workbench
+[Info   : Unity Log] RecipeCustomization got crafting station $piece_workbench
+[Info   : Unity Log] RecipeCustomization Item piece_stonecutter not found!
+[Info   :Jotunn.Managers.PrefabManager] Adding 23 custom prefabs to the ZNetScene
+[Info   :Jotunn.Managers.ItemManager] Adding 4 custom items to the ObjectDB
+[Info   :Jotunn.Managers.ItemManager] Adding 4 custom recipes to the ObjectDB
+[Info   :Jotunn.Managers.ItemManager] Adding 1 custom status effects to the ObjectDB
+[Info   : Unity Log] [Recipes] ObjectDB_Awake_Patch (423)
+[Info   : Unity Log] [Recipes: PC] Added recipe: Recipe_Chain
+[Info   : Unity Log] [Recipes: PC] Removed recipe (Recipe_Chain): 1
+[Info   : Unity Log] [Recipes: PC] Added recipe: Recipe_Chain
+[Info   : Unity Log] [Recipes: PC] Added recipe: Recipe_Dyrnwyn
+[Info   : Unity Log] [Recipes: PC] Added recipe: Recipe_Bait
+[Info   : Unity Log] [Recipes: PC] Removed recipe (Recipe_Chain): 1
+[Info   : Unity Log] [Recipes: PC] Added recipe: Recipe_Chain
+[Info   : Unity Log] MeadBaseIconFix ObjectDb Awake Patch Start
+[Info   : Unity Log] MeadBaseIconFix Updating icon for MeadBaseFrostResist
+[Info   : Unity Log] MeadBaseIconFix Updating icon for MeadBaseHealthMedium
+[Info   : Unity Log] MeadBaseIconFix Updating icon for MeadBaseHealthMinor
+[Info   : Unity Log] MeadBaseIconFix Updating icon for MeadBasePoisonResist
+[Info   : Unity Log] MeadBaseIconFix Updating icon for MeadBaseStaminaMedium
+[Info   : Unity Log] MeadBaseIconFix Updating icon for MeadBaseStaminaMinor
+[Info   : Unity Log] MeadBaseIconFix Updating icon for MeadBaseTasty
+[Info   : Unity Log] MeadBaseIconFix Updating icon for BarleyWineBase
+[Info   : Unity Log] MeadBaseIconFix ObjectDb Awake Patch End
+[Info   :Jotunn.Managers.PieceManager] Adding 13 custom pieces to the PieceTables
+[Warning:Jotunn.PrefabExtension] Not fixing potential mock references for field m_remainingRequirements : Dictionary is not supported.
+[Info   :Jotunn.Managers.MockManager] Destroying Mock prefabs
+[Info   :PlanBuild.Blueprints.BlueprintManager] Registering known blueprints
+[Info   : Unity Log] 12/31/2021 23:39:51: Audioman already exist, destroying self
+
+[Info   : Unity Log] 12/31/2021 23:39:51: Checking for installed DLCs
+
+[Info   : Unity Log] 12/31/2021 23:39:51: DLC:beta installed:False
+
+[Info   :Jotunn.Managers.NetworkManager] Registering 5 custom RPCs
+[Info   : Unity Log] 12/31/2021 23:39:55: Zonesystem Start 265
+
+[Info   : Unity Log] 12/31/2021 23:39:56: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups from locations_cp1
+
+[Info   : Unity Log] 12/31/2021 23:39:56: DungeonDB Start 265
+
+[Warning:PlanBuild.Plans.PlanDB] Warning for mod developers:
+Multiple pieces with the same m_name but different resource requirements, this will cause issues with Player.m_knownRecipes!
+Piece.m_name: $piece_yuleklapp
+ Requirements: $item_finewood:2, $item_bonefragments:1
+ Pieces: piece_gift1
+
+ Requirements: $item_finewood:3, $item_dandelion:1
+ Pieces: piece_gift2
+
+ Requirements: $item_finewood:4, $item_raspberries:1
+ Pieces: piece_gift3
+
+
+[Info   : Unity Log] 12/31/2021 23:39:56: Load world NeoArthheim
+
+[Info   : Unity Log] 12/31/2021 23:39:56: Loading 562639 zdos , my id 553836708 data version:28
+
+[Info   : Unity Log] 12/31/2021 23:39:59: Loaded 100000 dead zdos
+
+[Info   : Unity Log] 12/31/2021 23:39:59: Removed 0 OLD generated ZDOS
+
+[Info   : Unity Log] 12/31/2021 23:39:59: Loaded 7179 locations
+
+[Info   : Unity Log] 12/31/2021 23:39:59: Starting respawn
+
+[Info   : Unity Log] 12/31/2021 23:40:10: Unpacking compressed mapdata 16980
+
+[Info   : Unity Log] 12/31/2021 23:40:11: tip:$loadscreen_tip12
+
+[Info   : Unity Log] RecipeCustomization Looking for crafting station $piece_workbench
+[Info   : Unity Log] RecipeCustomization got crafting station $piece_workbench
+[Info   : Unity Log] RecipeCustomization Looking for crafting station $piece_workbench
+[Info   : Unity Log] RecipeCustomization got crafting station $piece_workbench
+[Info   : Unity Log] RecipeCustomization Looking for crafting station $piece_workbench
+[Info   : Unity Log] RecipeCustomization got crafting station $piece_workbench
+[Info   : Unity Log] RecipeCustomization Looking for crafting station $piece_workbench
+[Info   : Unity Log] RecipeCustomization got crafting station $piece_workbench
+[Info   : Unity Log] RecipeCustomization Looking for crafting station $piece_workbench
+[Info   : Unity Log] RecipeCustomization got crafting station $piece_workbench
+[Info   : Unity Log] 12/31/2021 23:40:14: Loading dungeon
+
+[Info   : Unity Log] 12/31/2021 23:40:14: Dungeon loaded 9
+
+[Info   : Unity Log] 12/31/2021 23:40:14: Dungeon load time 240.3804 ms
+
+[Info   : Unity Log] 12/31/2021 23:40:15: Force generaeting hmap (-2048.0, 0.0, -2240.0)
+
+[Info   : Unity Log] CustomContainerSizes container is on a ship: Karve(Clone)
+[Info   : Unity Log] CustomContainerSizes setting Karve chest size to 4,2
+[Info   : Unity Log] 12/31/2021 23:40:19: Spawned after 8.019994
+
+[Info   : Unity Log] 12/31/2021 23:40:19: Vis equip model set to 1
+
+[Info   : Unity Log] [Passive Forsaken Powers] Applying GP_Eikthyr forsaken power.
+[Info   : Unity Log] [Passive Forsaken Powers] Applying GP_TheElder forsaken power.
+[Info   : Unity Log] [Passive Forsaken Powers] Applying GP_Bonemass forsaken power.
+[Info   : Unity Log] 12/31/2021 23:40:19: Minimap: Adding unique location (-378.1, 33.0, -320.0)
+
+[Info   : Unity Log] 12/31/2021 23:40:19: Minimap: Adding unique location (-1198.7, 53.4, -1145.1)
+
+[Info   : Unity Log] BuildingRepair Repaired 1 pieces.
+[Info   : Unity Log] 12/31/2021 23:40:26: Setting selected recipe 0
+
+[Info   : Unity Log] 12/31/2021 23:40:26: UI Group status changed root = True
+
+[Info   : Unity Log] 12/31/2021 23:40:26: UI Group status changed Player = True
+
+[Info   : Unity Log] 12/31/2021 23:40:27: Disabling viewblock  viewblock
+
+[Info   :PlanBuild.Blueprints.BlueprintManager] Registering known blueprints
+[Info   :PlanBuild.Blueprints.BlueprintManager] Registering known blueprints
+[Info   : Unity Log] 12/31/2021 23:40:37: Placed piece_bpselectadd
+
+[Info   : Unity Log] 12/31/2021 23:40:47: Placed piece_bpselectremove
+
+[Info   : Unity Log] 12/31/2021 23:40:51: Placed piece_bpselectadd
+
+[Info   : Unity Log] 12/31/2021 23:40:51: Placed piece_bpselectadd
+
+[Info   : Unity Log] 12/31/2021 23:40:52: Placed piece_bpselectadd
+
+[Info   : Unity Log] 12/31/2021 23:40:57: Placed piece_bpselectadd
+
+[Info   : Unity Log] 12/31/2021 23:41:00: Placed piece_bpselectadd
+
+[Info   : Unity Log] 12/31/2021 23:41:02: Placed piece_bpselectadd
+
+[Info   : Unity Log] 12/31/2021 23:41:02: Placed piece_bpselectadd
+
+[Info   : Unity Log] 12/31/2021 23:41:03: Placed piece_bpselectadd
+
+[Info   : Unity Log] 12/31/2021 23:41:09: Placed piece_bpselectremove
+
+[Info   :PlanBuild.Blueprints.Tools.CaptureComponent] Capturing blueprint blueprint013
+[Info   :PlanBuild.Blueprints.Tools.CaptureComponent] Capturing blueprint blueprint013
+[Info   :PlanBuild.Blueprints.BlueprintManager] Registering known blueprints
+[Info   :PlanBuild.Blueprints.BlueprintManager] Registering known blueprints
+[Info   : Unity Log] 12/31/2021 23:41:28: Placed piece_bpselectadd
+
+[Info   :PlanBuild.Blueprints.BlueprintManager] Registering known blueprints
+[Info   : Unity Log] 12/31/2021 23:41:31: Placed piece_bpselectadd
+
+[Info   : Unity Log] 12/31/2021 23:41:42: Placed piece_bpselectsave
+
+[Info   : Unity Log] 12/31/2021 23:41:43: Placed piece_bpselectsave
+
+[Info   : Unity Log] 12/31/2021 23:41:43: Placed piece_bpselectsave
+
+[Info   : Unity Log] 12/31/2021 23:41:45: Placed piece_bpselectadd
+
+[Info   : Unity Log] 12/31/2021 23:41:45: Placed piece_bpselectadd
+
+[Info   : Unity Log] 12/31/2021 23:41:46: Placed piece_bpselectadd
+
+[Info   : Unity Log] 12/31/2021 23:41:47: Placed piece_bpselectadd
+
+[Info   : Unity Log] 12/31/2021 23:41:49: Placed piece_bpselectadd
+
+[Info   : Unity Log] 12/31/2021 23:41:50: Placed piece_bpselectadd
+
+[Info   : Unity Log] 12/31/2021 23:41:51: Placed piece_bpselectadd
+
+[Info   : Unity Log] 12/31/2021 23:41:51: Placed piece_bpselectadd
+
+[Info   : Unity Log] 12/31/2021 23:41:52: Placed piece_bpselectadd
+
+[Info   : Unity Log] 12/31/2021 23:41:52: Placed piece_bpselectadd
+
+[Info   : Unity Log] 12/31/2021 23:41:53: Placed piece_bpselectadd
+
+[Info   : Unity Log] 12/31/2021 23:41:53: Setting selected recipe 0
+
+[Info   : Unity Log] 12/31/2021 23:41:53: UI Group status changed root = True
+
+[Info   : Unity Log] 12/31/2021 23:41:53: UI Group status changed Player = True
+
+[Info   :PlanBuild.Blueprints.BlueprintManager] Registering known blueprints
+[Info   :PlanBuild.Blueprints.BlueprintManager] Registering known blueprints
+[Info   : Unity Log] 12/31/2021 23:41:59: Placed piece_bpselectadd
+
+[Info   :PlanBuild.Blueprints.BlueprintManager] Registering known blueprints
+[Info   : Unity Log] 12/31/2021 23:42:01: Placed piece_bpselectadd
+
+[Info   : Unity Log] 12/31/2021 23:42:03: Placed piece_bpselectadd
+
+[Info   : Unity Log] 12/31/2021 23:42:03: Placed piece_bpselectadd
+
+[Info   :PlanBuild.Blueprints.BlueprintManager] Registering known blueprints
+[Info   : Unity Log] 12/31/2021 23:42:11: Placed piece_bpselectadd
+
+[Info   : Unity Log] 12/31/2021 23:42:11: Placed piece_bpselectadd
+
+[Info   : Unity Log] 12/31/2021 23:42:15: Setting selected recipe 0
+
+[Info   : Unity Log] 12/31/2021 23:42:15: UI Group status changed root = True
+
+[Info   : Unity Log] 12/31/2021 23:42:15: UI Group status changed Player = True
+
+[Info   :PlanBuild.Blueprints.BlueprintManager] Registering known blueprints
+[Info   : Unity Log] 12/31/2021 23:42:17: Placed piece_bpselectadd
+
+[Info   : Unity Log] 12/31/2021 23:42:21: Placed piece_bpselectremove
+
+[Info   : Unity Log] 12/31/2021 23:42:24: Placed piece_bpselectadd
+
+[Info   : Unity Log] 12/31/2021 23:42:26: Placed piece_bpselectadd
+
+[Info   : Unity Log] 12/31/2021 23:42:29: UI Group status changed MenuRoot = True
+
+[Info   : Unity Log] 12/31/2021 23:42:30: UI Group status changed MenuRoot = False
+
+[Info   : Unity Log] 12/31/2021 23:42:31: Game - OnApplicationQuit
+
+[Info   : Unity Log] 12/31/2021 23:42:31: Shuting down
+
+[Info   : Unity Log] 12/31/2021 23:42:31: Uncompressed size 8394386
+
+[Info   : Unity Log] 12/31/2021 23:42:31: Compressed size 16980
+
+[Info   : Unity Log] 12/31/2021 23:42:32: ZNet Shutdown
+
+[Info   : Unity Log] 12/31/2021 23:42:32: clone 723
+
+[Info   : Unity Log] 12/31/2021 23:42:35: Sending disconnect msg
+
+[Info   : Unity Log] 12/31/2021 23:42:37: FOund selected Button_yes
+
+[Info   : Unity Log] 12/31/2021 23:42:37: ZNet OnDestroy
+
+[Info   : Unity Log] 12/31/2021 23:42:37: Net scene destroyed
+
+[Info   : Unity Log] 12/31/2021 23:42:38: Steam manager on destroy
+
+[Warning: Unity Log] 12/31/2021 23:42:38: Local player destroyed
+
+[Info   : Unity Log] ControllerButtonSwitch Destroying plugin
+[Info   : Unity Log] SimpleSort Destroying plugin
+[Warning:  HarmonyX] UnpatchAll has been called with harmonyID=null - This will remove ALL HARMONY PATCHES. If you want to only unpatch patches created by this instance (MeadBaseIconFix), use UnpatchSelf() instead.
