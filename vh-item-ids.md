@@ -1,5 +1,11 @@
 # Item IDs
 
+Easy to copy & paste item ID list taken from:
+
+https://valheim.fandom.com/wiki/Item_IDs
+
+Updated 2022/01/02
+
 ## Creatures
 ```
 Abomination
