@@ -29,7 +29,53 @@
 [Message:   BepInEx] Preloader finished
 [Message:   BepInEx] Chainloader ready
 [Message:   BepInEx] Chainloader started
-[Info   :   BepInEx] 3 plugins to load
+[Info   :   BepInEx] 48 plugins to load
+[Info   :   BepInEx] Loading [CartographySkill 2.1.0]
+[Info   :   BepInEx] Loading [PlantEverything 1.9.1]
+[Info   :   BepInEx] Loading [Animation Speed 0.8.0]
+[Info   :   BepInEx] Loading [AutoSplitStack 0.2.0]
+[Info   :   BepInEx] Loading [Backpack Redux 0.5.0]
+[Info   :   BepInEx] Loading [Building Demolish 0.5.0]
+[Info   :   BepInEx] Loading [Building Repair 0.2.0]
+[Info   :   BepInEx] Loading [Console Tweaks 0.5.0]
+[Info   :   BepInEx] Loading [Crafting Filter 0.5.1]
+[Info   : Unity Log] CraftingFilter Loaded20 categories
+[Warning:  HarmonyX] AccessTools.DeclaredMethod: Could not find method for type Console and name InputText and parameters 
+[Warning:  HarmonyX] Unknown patch - Could not find method InputText with 0 parameters in type Console, but it was found in base class of this type Terminal
+[Info   :   BepInEx] Loading [Custom Container Sizes 0.6.0]
+[Info   :   BepInEx] Loading [Custom Graphics Settings 0.7.0]
+[Info   :   BepInEx] Loading [Death Tweaks 0.8.1]
+[Info   :   BepInEx] Loading [Discard or Recycle Inventory Items 0.7.0]
+[Info   :   BepInEx] Loading [Equip Multiple Utility Items 0.2.2]
+[Warning:  HarmonyX] AccessTools.DeclaredMethod: Could not find method for type Console and name InputText and parameters 
+[Warning:  HarmonyX] Unknown patch - Could not find method InputText with 0 parameters in type Console, but it was found in base class of this type Terminal
+[Info   :   BepInEx] Loading [Grass Tweaks 0.2.0]
+[Info   :   BepInEx] Loading [Hotbar Switch 0.1.1]
+[Warning:  HarmonyX] AccessTools.DeclaredMethod: Could not find method for type Console and name InputText and parameters 
+[Warning:  HarmonyX] Unknown patch - Could not find method InputText with 0 parameters in type Console, but it was found in base class of this type Terminal
+[Info   :   BepInEx] Loading [Map Coordinate Display 0.3.0]
+[Warning:  HarmonyX] AccessTools.DeclaredMethod: Could not find method for type Console and name InputText and parameters 
+[Warning:  HarmonyX] Unknown patch - Could not find method InputText with 0 parameters in type Console, but it was found in base class of this type Terminal
+[Info   :   BepInEx] Loading [Map Teleport 0.5.0]
+[Info   :   BepInEx] Loading [Quick Store 0.2.0]
+[Info   :   BepInEx] Loading [Recipe Customization 0.5.1]
+[Info   :   BepInEx] Loading [Regeneration 0.3.1]
+[Info   :   BepInEx] Loading [Simple Sort 0.7.0]
+[Warning:  HarmonyX] AccessTools.DeclaredMethod: Could not find method for type Console and name InputText and parameters 
+[Warning:  HarmonyX] Unknown patch - Could not find method InputText with 0 parameters in type Console, but it was found in base class of this type Terminal
+[Info   :   BepInEx] Loading [Terrain Reset 0.7.0]
+[Info   :   BepInEx] Loading [Custom Raids 1.4.0]
+[Info   :Custom Raids] Loading configurations...
+[Info   :   BepInEx] Loading [AzuWayshrine 1.0.6]
+[Info   : Unity Log] 01/03/2022 16:59:17: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 01/03/2022 16:59:17: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 01/03/2022 16:59:17: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 01/03/2022 16:59:17: Loaded localization CSV:localization_extra language:English
+
+[Info   :   BepInEx] Loading [Last Used Weapons 1.1.0.0]
 [Info   :   BepInEx] Loading [Jotunn 2.4.5]
 [Info   :    Jotunn] Initializing LocalizationManager
 [Info   :    Jotunn] Initializing CommandManager
@@ -48,90 +94,150 @@
 [Info   :    Jotunn] Initializing RenderManager
 [Info   :    Jotunn] Initializing MinimapManager
 [Info   :    Jotunn] Jötunn v2.4.5 loaded successfully
-[Info   :   BepInEx] Loading [PlanBuild 0.9.2]
+[Info   :   BepInEx] Loading [CropReplant 2.2.1]
+[Warning:Jotunn.Managers.KeyHintManager] Key hint config for item  already added
+[Info   :   BepInEx] Loading [Veinmine 1.2.5]
+[Info   :   BepInEx] Loading [SeafloorWalkingBoots 1.0.2]
+[Info   :SeafloorWalkingBoots] Seafloor Walking Boots has arrived
+[Info   :   BepInEx] Loading [Hearthstone 1.0.2]
+[Info   :   BepInEx] Loading [Digitalroot SlopeCombatFix 2.0.0]
+[Info   :   BepInEx] Loading [EZBuild 1.1.4]
+[Info   :   BepInEx] Loading [CraftAll 0.0.1]
+[Info   :   BepInEx] Loading [Fish Overhaul 1.1]
+[Info   :   BepInEx] Loading [Precise Piece Placement 1.1.0]
+[Info   :   BepInEx] Loading [PlanBuild 0.9.3]
 [Info   :PlanBuild.Plans.PlanManager] Initializing PlanManager
-[Error  : Unity Log] Desired shader compiler platform 18 is not available in shader blob
 [Info   :PlanBuild.Blueprints.BlueprintManager] Initializing BlueprintManager
 [Info   :PlanBuild.Blueprints.Marketplace.BlueprintSync] Loading known blueprints
+[Info   :   BepInEx] Loading [ValheimAdditionalRecipes 1.0.3]
+[Info   : Unity Log] [Recipes] Looking for baitrecipe.json in D:\Steam\steamapps\common\Valheim\BepInEx\config\AdditionalRecipes\baitrecipe.json
+[Info   : Unity Log] [Recipes] Looking for chainrecipe.json in D:\Steam\steamapps\common\Valheim\BepInEx\config\AdditionalRecipes\chainrecipe.json
+[Info   : Unity Log] [Recipes] Looking for dyrnwynrecipe.json in D:\Steam\steamapps\common\Valheim\BepInEx\config\AdditionalRecipes\dyrnwynrecipe.json
+[Info   : Unity Log] [Recipes] Recipe name Recipe_Bait
+[Info   : Unity Log] [Recipes] Recipe name Recipe_Chain
+[Info   : Unity Log] [Recipes] Recipe name Recipe_Chain
+[Info   : Unity Log] [Recipes] Recipe name Recipe_Chain
+[Info   : Unity Log] [Recipes] Recipe name Recipe_Dyrnwyn
+[Info   :   BepInEx] Loading [ReelySpecTackleLure 0.1.2]
+[Info   : Unity Log] ReelySpecTackleLure ReelySpecTackleLure awake
+[Info   :   BepInEx] Loading [RequipMe 0.1.1]
+[Info   : Unity Log] RequipMe Awake
+[Info   :   BepInEx] Loading [Wolfpack 0.9.8]
 [Info   :   BepInEx] Loading [Display BepInEx Info In-Game 2.0.0]
+[Info   :   BepInEx] Loading [Passive Forsaken Powers 1.0.1]
+[Info   :   BepInEx] Loading [RagnarsRökare CraftToStackMod 0.3]
+[Info   : Unity Log] Loading RagnarsRökare CraftToStackMod v0.3, Barg Bug Bash!
+[Info   :   BepInEx] Loading [Improved Build HUD 1.0.3]
+[Info   :   BepInEx] Loading [DisableBossRegeneration 1.0]
+[Info   :   BepInEx] Loading [TopMining 1.0.1]
+[Info   :   BepInEx] Loading [Snap Points Made Easy 1.3.0]
+[Info   : Unity Log] Loaded settings!
+EnableModKey: Keypad0
+IterateSourceSnapPoints:Keypad1
+IterateDestinationSnapPoints:Keypad2
 [Message:   BepInEx] Chainloader startup complete
-[Info   : Unity Log] 01/01/2022 17:28:47: Starting to load scene:start
+[Info   : Unity Log] 01/03/2022 16:59:19: Starting to load scene:start
 
+[Info   : Unity Log] BackpackRedux Searching for old backpack mod
+[Info   : Unity Log] BackpackRedux Old plugin not found.
 [Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
-[Info   : Unity Log] 01/01/2022 17:28:52: Valheim version:0.206.5
+[Info   : Unity Log] 01/03/2022 16:59:23: Valheim version:0.206.5
 
 [Info   :Jotunn.Managers.CommandManager] Adding 11 commands to the Console
-[Info   : Unity Log] 01/01/2022 17:28:52: Render threading mode:MultiThreaded
+[Info   : Unity Log] 01/03/2022 16:59:23: Render threading mode:MultiThreaded
 
-[Info   : Unity Log] 01/01/2022 17:28:52: Using steam_appid.txt
+[Info   : Unity Log] 01/03/2022 16:59:23: Using steam_appid.txt
 
-[Info   : Unity Log] 01/01/2022 17:28:52: Using steam APPID:892970
+[Info   : Unity Log] 01/03/2022 16:59:23: Using steam APPID:892970
 
-[Info   : Unity Log] 01/01/2022 17:28:52: Authentication:k_ESteamNetworkingAvailability_Attempting
+[Info   : Unity Log] 01/03/2022 16:59:24: Authentication:k_ESteamNetworkingAvailability_Attempting
 
-[Info   : Unity Log] 01/01/2022 17:28:52: Steam initialized, persona:proudunicorn
+[Info   : Unity Log] 01/03/2022 16:59:24: Steam initialized, persona:proudunicorn
 
-[Warning: Unity Log] 01/01/2022 17:28:52: Missing audio clip in music respawn
+[Warning: Unity Log] 01/03/2022 16:59:24: Missing audio clip in music respawn
 
-[Info   : Unity Log] 01/01/2022 17:28:52: Checking for installed DLCs
+[Info   : Unity Log] 01/03/2022 16:59:24: Checking for installed DLCs
 
-[Info   : Unity Log] 01/01/2022 17:28:52: DLC:beta installed:False
-
-[Info   : Unity Log] 01/01/2022 17:28:53: Loaded localization CSV:localization language:English
-
-[Info   : Unity Log] 01/01/2022 17:28:53: Loaded localization CSV:localization_extra language:English
-
-[Info   : Unity Log] 01/01/2022 17:28:53: Loaded localization CSV:localization language:English
-
-[Info   : Unity Log] 01/01/2022 17:28:53: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 01/03/2022 16:59:24: DLC:beta installed:False
 
 [Info   :Jotunn.Managers.LocalizationManager] Loading custom localizations
-[Info   : Unity Log] 01/01/2022 17:28:53: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 01/03/2022 16:59:25: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 01/01/2022 17:28:53: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 01/03/2022 16:59:25: Loaded localization CSV:localization_extra language:English
 
 [Info   :Jotunn.Managers.LocalizationManager] Adding tokens for language 'English'
+[Info   : Unity Log] [Recipes] ObjectDB_Awake_Patch (0)
 [Info   :Jotunn.Managers.KitbashManager] Applying Kitbash in 1 objects
-[Info   :Jotunn.Managers.ItemManager] Adding 2 custom items to the ObjectDB
-[Info   :Jotunn.Managers.InputManager] Registering 6 custom inputs
-[Info   : Unity Log] 01/01/2022 17:28:53: UI Group status changed Menu = True
+[Info   :Jotunn.Managers.ItemManager] Adding 4 custom items to the ObjectDB
+[Info   : Unity Log] [Recipes] ObjectDB_CopyOtherDB_Patch (423)
+[Info   : Unity Log] [Passive Forsaken Powers] Made GP_Bonemass status effect passive.
+[Info   : Unity Log] [Passive Forsaken Powers] Made GP_Eikthyr status effect passive.
+[Info   : Unity Log] [Passive Forsaken Powers] Made GP_Moder status effect passive.
+[Info   : Unity Log] [Passive Forsaken Powers] Made GP_TheElder status effect passive.
+[Info   : Unity Log] [Passive Forsaken Powers] Made GP_Yagluth status effect passive.
+[Info   :Jotunn.Managers.InputManager] Registering 18 custom inputs
+[Info   : Unity Log] 01/03/2022 16:59:25: Vis equip model set to 1
 
-[Info   : Unity Log] 01/01/2022 17:28:56: UI Group status changed Menu = True
+[Info   : Unity Log] 01/03/2022 16:59:25: UI Group status changed Menu = True
 
-[Info   : Unity Log] 01/01/2022 17:29:04: FOund selected Start game
+[Info   : Unity Log] 01/03/2022 16:59:27: UI Group status changed Menu = True
 
-[Info   : Unity Log] 01/01/2022 17:29:04: show character selection
+[Info   : Unity Log] 01/03/2022 16:59:32: FOund selected Start game
 
-[Info   : Unity Log] 01/01/2022 17:29:05: OnCharacterStart
+[Info   : Unity Log] 01/03/2022 16:59:32: show character selection
+
+[Info   : Unity Log] 01/03/2022 16:59:33: OnCharacterStart
 
 [Info   :Jotunn.Managers.CommandManager] Adding 11 commands to the Console
-[Info   : Unity Log] 01/01/2022 17:29:08: Loading player profile tester
+[Info   : Unity Log] 01/03/2022 16:59:36: Loading player profile owl
 
-[Info   : Unity Log] 01/01/2022 17:29:08: Zonesystem Awake 285
+[Info   : Unity Log] 01/03/2022 16:59:36: Zonesystem Awake 322
 
-[Info   : Unity Log] 01/01/2022 17:29:08: DungeonDB Awake 285
+[Info   : Unity Log] 01/03/2022 16:59:36: DungeonDB Awake 322
 
-[Info   : Unity Log] 01/01/2022 17:29:09: Steam initialized, persona:proudunicorn
+[Info   : Unity Log] 01/03/2022 16:59:36: Steam initialized, persona:proudunicorn
 
-[Info   :Jotunn.Managers.PrefabManager] Adding 21 custom prefabs to the ZNetScene
-[Info   :Jotunn.Managers.ItemManager] Adding 2 custom items to the ObjectDB
-[Info   :Jotunn.Managers.ItemManager] Adding 2 custom recipes to the ObjectDB
+[Info   : Unity Log] Registered 'advize.CartographySkill ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'advize.PlantEverything ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'azumatt.Wayshrine ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] [Recipes] ZNetScene_Awake_Patch
+[Info   : Unity Log] RecipeCustomization Looking for crafting station $piece_workbench
+[Info   : Unity Log] RecipeCustomization got crafting station $piece_workbench
+[Info   : Unity Log] RecipeCustomization Looking for crafting station $piece_workbench
+[Info   : Unity Log] RecipeCustomization got crafting station $piece_workbench
+[Info   : Unity Log] RecipeCustomization Looking for crafting station $piece_workbench
+[Info   : Unity Log] RecipeCustomization got crafting station $piece_workbench
+[Info   : Unity Log] RecipeCustomization Looking for crafting station $piece_workbench
+[Info   : Unity Log] RecipeCustomization got crafting station $piece_workbench
+[Info   : Unity Log] RecipeCustomization Item piece_stonecutter not found!
+[Info   :Jotunn.Managers.PrefabManager] Adding 23 custom prefabs to the ZNetScene
+[Info   :Jotunn.Managers.ItemManager] Adding 4 custom items to the ObjectDB
+[Info   :Jotunn.Managers.ItemManager] Adding 4 custom recipes to the ObjectDB
+[Info   :Jotunn.Managers.ItemManager] Adding 1 custom status effects to the ObjectDB
+[Info   : Unity Log] [Recipes] ObjectDB_Awake_Patch (423)
+[Info   : Unity Log] [Recipes: PC] Added recipe: Recipe_Chain
+[Info   : Unity Log] [Recipes: PC] Removed recipe (Recipe_Chain): 1
+[Info   : Unity Log] [Recipes: PC] Added recipe: Recipe_Chain
+[Info   : Unity Log] [Recipes: PC] Added recipe: Recipe_Dyrnwyn
+[Info   : Unity Log] [Recipes: PC] Added recipe: Recipe_Bait
+[Info   : Unity Log] [Recipes: PC] Removed recipe (Recipe_Chain): 1
+[Info   : Unity Log] [Recipes: PC] Added recipe: Recipe_Chain
 [Info   :Jotunn.Managers.PieceManager] Adding 13 custom pieces to the PieceTables
 [Warning:Jotunn.PrefabExtension] Not fixing potential mock references for field m_remainingRequirements : Dictionary is not supported.
 [Info   :Jotunn.Managers.MockManager] Destroying Mock prefabs
 [Info   :PlanBuild.Blueprints.BlueprintManager] Registering known blueprints
-[Info   : Unity Log] 01/01/2022 17:29:12: Audioman already exist, destroying self
+[Info   : Unity Log] 01/03/2022 16:59:40: Audioman already exist, destroying self
 
-[Info   : Unity Log] 01/01/2022 17:29:12: Checking for installed DLCs
+[Info   : Unity Log] 01/03/2022 16:59:40: Checking for installed DLCs
 
-[Info   : Unity Log] 01/01/2022 17:29:12: DLC:beta installed:False
+[Info   : Unity Log] 01/03/2022 16:59:40: DLC:beta installed:False
 
 [Info   :Jotunn.Managers.NetworkManager] Registering 5 custom RPCs
-[Info   : Unity Log] 01/01/2022 17:29:15: Zonesystem Start 285
+[Info   : Unity Log] 01/03/2022 16:59:44: Zonesystem Start 322
 
-[Info   : Unity Log] 01/01/2022 17:29:16: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups from locations_cp1
+[Info   : Unity Log] 01/03/2022 16:59:44: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups from locations_cp1
 
-[Info   : Unity Log] 01/01/2022 17:29:16: DungeonDB Start 285
+[Info   : Unity Log] 01/03/2022 16:59:44: DungeonDB Start 322
 
 [Warning:PlanBuild.Plans.PlanDB] Warning for mod developers:
 Multiple pieces with the same m_name but different resource requirements, this will cause issues with Player.m_knownRecipes!
@@ -146,107 +252,368 @@ Piece.m_name: $piece_yuleklapp
  Pieces: piece_gift3
 
 
-[Info   : Unity Log] 01/01/2022 17:29:16: Load world NeoArthheim
+[Info   : Unity Log] 01/03/2022 16:59:44: Load world NeoArthheim
 
-[Info   : Unity Log] 01/01/2022 17:29:16: Loading 562643 zdos , my id 286562705 data version:28
+[Info   : Unity Log] 01/03/2022 16:59:44: Loading 566867 zdos , my id 927694534 data version:28
 
-[Info   : Unity Log] 01/01/2022 17:29:18: Loaded 100000 dead zdos
+[Info   : Unity Log] 01/03/2022 16:59:47: Loaded 100000 dead zdos
 
-[Info   : Unity Log] 01/01/2022 17:29:18: Removed 0 OLD generated ZDOS
+[Info   : Unity Log] 01/03/2022 16:59:47: Removed 0 OLD generated ZDOS
 
-[Info   : Unity Log] 01/01/2022 17:29:18: Loaded 7179 locations
+[Info   : Unity Log] 01/03/2022 16:59:47: Loaded 7179 locations
 
-[Info   : Unity Log] 01/01/2022 17:29:19: Starting respawn
+[Info   : Unity Log] 01/03/2022 16:59:47: Starting respawn
 
-[Info   : Unity Log] 01/01/2022 17:29:30: Unpacking compressed mapdata 8387
+[Info   : Unity Log] 01/03/2022 16:59:58: Unpacking compressed mapdata 17212
 
-[Info   : Unity Log] 01/01/2022 17:29:30: tip:$loadscreen_tip11
+[Info   : Unity Log] 01/03/2022 16:59:58: tip:$loadscreen_tip01
 
-[Info   : Unity Log] 01/01/2022 17:29:33: Force generaeting hmap (-256.0, 0.0, -448.0)
+[Info   : Unity Log] RecipeCustomization Looking for crafting station $piece_workbench
+[Info   : Unity Log] RecipeCustomization got crafting station $piece_workbench
+[Info   : Unity Log] RecipeCustomization Looking for crafting station $piece_workbench
+[Info   : Unity Log] RecipeCustomization got crafting station $piece_workbench
+[Info   : Unity Log] RecipeCustomization Looking for crafting station $piece_workbench
+[Info   : Unity Log] RecipeCustomization got crafting station $piece_workbench
+[Info   : Unity Log] RecipeCustomization Looking for crafting station $piece_workbench
+[Info   : Unity Log] RecipeCustomization got crafting station $piece_workbench
+[Info   : Unity Log] RecipeCustomization Looking for crafting station $piece_workbench
+[Info   : Unity Log] RecipeCustomization got crafting station $piece_workbench
+[Info   : Unity Log] CustomContainerSizes setting private chest size to 3,2
+[Info   : Unity Log] CustomContainerSizes setting chest size to 5,2
+[Info   : Unity Log] CustomContainerSizes setting chest size to 5,2
+[Info   : Unity Log] CustomContainerSizes setting private chest size to 3,2
+[Info   : Unity Log] CustomContainerSizes setting chest size to 5,2
+[Info   : Unity Log] CustomContainerSizes setting chest size to 5,2
+[Info   : Unity Log] CustomContainerSizes setting private chest size to 3,2
+[Info   : Unity Log] CustomContainerSizes setting chest size to 5,2
+[Info   : Unity Log] CustomContainerSizes setting chest size to 5,2
+[Info   : Unity Log] CustomContainerSizes setting chest size to 5,2
+[Info   : Unity Log] CustomContainerSizes setting chest size to 5,2
+[Info   : Unity Log] CustomContainerSizes setting chest size to 5,2
+[Info   : Unity Log] CustomContainerSizes setting chest size to 5,2
+[Info   : Unity Log] CustomContainerSizes setting chest size to 5,2
+[Info   : Unity Log] CustomContainerSizes setting chest size to 5,2
+[Info   : Unity Log] CustomContainerSizes setting chest size to 5,2
+[Info   : Unity Log] CustomContainerSizes setting chest size to 5,2
+[Info   : Unity Log] CustomContainerSizes setting chest size to 5,2
+[Info   : Unity Log] CustomContainerSizes setting chest size to 5,2
+[Info   : Unity Log] CustomContainerSizes setting chest size to 5,2
+[Info   : Unity Log] CustomContainerSizes setting chest size to 5,2
+[Info   : Unity Log] CustomContainerSizes setting chest size to 5,2
+[Info   : Unity Log] CustomContainerSizes setting chest size to 5,2
+[Info   : Unity Log] CustomContainerSizes setting chest size to 5,2
+[Info   : Unity Log] CustomContainerSizes setting chest size to 5,2
+[Info   : Unity Log] CustomContainerSizes setting chest size to 5,2
+[Info   : Unity Log] CustomContainerSizes setting chest size to 5,2
+[Info   : Unity Log] CustomContainerSizes setting chest size to 5,2
+[Info   : Unity Log] CustomContainerSizes setting chest size to 5,2
+[Info   : Unity Log] CustomContainerSizes setting chest size to 5,2
+[Info   : Unity Log] CustomContainerSizes setting chest size to 5,2
+[Info   : Unity Log] CustomContainerSizes setting chest size to 5,2
+[Info   : Unity Log] CustomContainerSizes setting chest size to 5,2
+[Info   : Unity Log] CustomContainerSizes setting chest size to 5,2
+[Info   : Unity Log] CustomContainerSizes setting chest size to 5,2
+[Info   : Unity Log] CustomContainerSizes setting chest size to 5,2
+[Info   : Unity Log] CustomContainerSizes setting reinforced chest size to 6,4
+[Info   : Unity Log] CustomContainerSizes setting reinforced chest size to 6,4
+[Info   : Unity Log] CustomContainerSizes setting chest size to 5,2
+[Info   : Unity Log] CustomContainerSizes setting chest size to 5,2
+[Info   : Unity Log] CustomContainerSizes setting chest size to 5,2
+[Info   : Unity Log] CustomContainerSizes setting chest size to 5,2
+[Info   : Unity Log] CustomContainerSizes setting chest size to 5,2
+[Info   : Unity Log] CustomContainerSizes setting chest size to 5,2
+[Info   : Unity Log] CustomContainerSizes setting private chest size to 3,2
+[Info   : Unity Log] CustomContainerSizes setting chest size to 5,2
+[Info   : Unity Log] 01/03/2022 17:00:03: Force generaeting hmap (-512.0, 0.0, -1152.0)
 
-[Info   : Unity Log] 01/01/2022 17:29:33: Force generaeting hmap (-192.0, 0.0, -448.0)
+[Info   : Unity Log] 01/03/2022 17:00:03: Force generaeting hmap (-576.0, 0.0, -1088.0)
 
-[Info   : Unity Log] 01/01/2022 17:29:33: Force generaeting hmap (-384.0, 0.0, -320.0)
+[Info   : Unity Log] 01/03/2022 17:00:03: Force generaeting hmap (-576.0, 0.0, -1024.0)
 
-[Info   : Unity Log] 01/01/2022 17:29:33: Force generaeting hmap (-320.0, 0.0, -320.0)
+[Info   : Unity Log] 01/03/2022 17:00:06: Spawned after 8.019994
 
-[Info   : Unity Log] 01/01/2022 17:29:33: Force generaeting hmap (-384.0, 0.0, -256.0)
+[Info   : Unity Log] 01/03/2022 17:00:06: Vis equip model set to 1
 
-[Info   : Unity Log] 01/01/2022 17:29:34: Done fading color
+[Info   : Unity Log] [Passive Forsaken Powers] Applying GP_Eikthyr forsaken power.
+[Info   : Unity Log] [Passive Forsaken Powers] Applying GP_TheElder forsaken power.
+[Info   : Unity Log] [Passive Forsaken Powers] Applying GP_Bonemass forsaken power.
+[Info   : Unity Log] [Passive Forsaken Powers] Applying GP_Moder forsaken power.
+[Info   :AzuWayshrine] Local Play Detected setting Admin: True
+[Info   : Unity Log] 01/03/2022 17:00:07: Minimap: Adding unique location (-378.1, 33.0, -320.0)
 
-[Info   : Unity Log] 01/01/2022 17:29:34: Done fading color
+[Info   : Unity Log] 01/03/2022 17:00:07: Minimap: Adding unique location (-1198.7, 53.4, -1145.1)
 
-[Info   : Unity Log] 01/01/2022 17:29:34: Done fading color
+[Info   : Unity Log] 01/03/2022 17:00:27: Right click
 
-[Info   : Unity Log] 01/01/2022 17:29:38: Spawned after 8.019994
+[Info   : Unity Log] 01/03/2022 17:00:28: Left click
 
-[Info   : Unity Log] 01/01/2022 17:29:38: Minimap: Adding unique location (-378.1, 33.0, -320.0)
+[Info   : Unity Log] 01/03/2022 17:00:29: Right click
 
-[Info   : Unity Log] 01/01/2022 17:29:38: Minimap: Adding unique location (-1198.7, 53.4, -1145.1)
+[Info   : Unity Log] 01/03/2022 17:00:42: Spawned Deer x 2
 
-[Info   : Unity Log] 01/01/2022 17:29:41: Setting selected recipe 0
+[Info   : Unity Log] 01/03/2022 17:00:42: Spawned Greydwarf x 1
 
-[Info   : Unity Log] 01/01/2022 17:29:41: UI Group status changed root = True
+[Info   : Unity Log] 01/03/2022 17:01:03: Force generaeting hmap (-384.0, 0.0, -1024.0)
 
-[Info   : Unity Log] 01/01/2022 17:29:41: UI Group status changed Player = True
+[Info   : Unity Log] 01/03/2022 17:01:12: Setting selected recipe 0
 
-[Info   : Unity Log] 01/01/2022 17:30:04: Spawn time :1.9967 ms
+[Info   : Unity Log] 01/03/2022 17:01:12: UI Group status changed root = True
 
-[Info   : Unity Log] 01/01/2022 17:30:08: Setting selected recipe 0
+[Info   : Unity Log] 01/03/2022 17:01:12: UI Group status changed Player = True
 
-[Info   : Unity Log] 01/01/2022 17:30:08: UI Group status changed root = True
+[Info   : Unity Log] 01/03/2022 17:01:23: Setting selected recipe 0
 
-[Info   : Unity Log] 01/01/2022 17:30:08: UI Group status changed Player = True
+[Info   : Unity Log] 01/03/2022 17:01:23: UI Group status changed root = True
 
-[Info   : Unity Log] 01/01/2022 17:30:12: Setting selected recipe 0
+[Info   : Unity Log] 01/03/2022 17:01:23: UI Group status changed Player = True
 
-[Info   :PlanBuild.Blueprints.BlueprintManager] Registering known blueprints
-[Info   :PlanBuild.Blueprints.BlueprintManager] Registering known blueprints
-[Info   : Unity Log] 01/01/2022 17:30:22: Placed piece_bpselectadd
+[Info   : Unity Log] 01/03/2022 17:01:25: Setting selected recipe 0
 
-[Info   : Unity Log] 01/01/2022 17:30:22: Placed piece_bpselectadd
+[Info   : Unity Log] 01/03/2022 17:01:25: UI Group status changed Container = False
 
-[Info   : Unity Log] 01/01/2022 17:30:24: Placed piece_bpselectadd
+[Info   : Unity Log] 01/03/2022 17:01:29: UI Group status changed MenuRoot = True
 
-[Info   : Unity Log] 01/01/2022 17:30:26: Placed piece_bpselectadd
+[Info   : Unity Log] 01/03/2022 17:01:30: UI Group status changed MenuRoot = True
 
-[Info   : Unity Log] 01/01/2022 17:30:27: Placed piece_bpselectadd
+[Info   : Unity Log] BuildingRepair Repaired 1 pieces.
+[Info   : Unity Log] ConsoleTweaks Opening console
+[Info   : Unity Log] ConsoleTweaks Loaded 1838 strings
+[Info   : Unity Log] 01/03/2022 17:03:03: Player 927694534 wants to open piece_chest_wood(Clone)   im: 927694534
 
-[Info   : Unity Log] 01/01/2022 17:30:28: Placed piece_bpselectadd
+[Info   : Unity Log] 01/03/2022 17:03:03: Setting selected recipe 1
 
-[Info   : Unity Log] 01/01/2022 17:30:29: Placed piece_bpselectadd
+[Info   : Unity Log] 01/03/2022 17:03:03: UI Group status changed root = True
 
-[Info   : Unity Log] 01/01/2022 17:30:29: Placed piece_bpselectadd
+[Info   : Unity Log] 01/03/2022 17:03:03: UI Group status changed Player = True
 
-[Info   : Unity Log] 01/01/2022 17:30:29: Placed piece_bpselectadd
+[Info   : Unity Log] 01/03/2022 17:03:16: Player 927694534 wants to open piece_chest_wood(Clone)   im: 927694534
 
-[Info   : Unity Log] 01/01/2022 17:30:30: Placed piece_bpselectadd
+[Info   : Unity Log] 01/03/2022 17:03:16: Setting selected recipe 1
 
-[Info   : Unity Log] 01/01/2022 17:30:36: UI Group status changed MenuRoot = True
+[Info   : Unity Log] 01/03/2022 17:03:16: UI Group status changed root = True
 
-[Info   : Unity Log] 01/01/2022 17:30:37: UI Group status changed MenuRoot = False
+[Info   : Unity Log] 01/03/2022 17:03:16: UI Group status changed Player = True
 
-[Info   : Unity Log] 01/01/2022 17:30:38: Game - OnApplicationQuit
+[Info   : Unity Log] 01/03/2022 17:03:25: Player 927694534 wants to open piece_chest_wood(Clone)   im: 927694534
 
-[Info   : Unity Log] 01/01/2022 17:30:38: Shuting down
+[Info   : Unity Log] 01/03/2022 17:03:25: Setting selected recipe 1
 
-[Info   : Unity Log] 01/01/2022 17:30:38: Uncompressed size 8388617
+[Info   : Unity Log] 01/03/2022 17:03:25: UI Group status changed root = True
 
-[Info   : Unity Log] 01/01/2022 17:30:38: Compressed size 8387
+[Info   : Unity Log] 01/03/2022 17:03:25: UI Group status changed Player = True
 
-[Info   : Unity Log] 01/01/2022 17:30:38: ZNet Shutdown
+[Info   : Unity Log] 01/03/2022 17:03:31: Player 927694534 wants to open piece_chest_wood(Clone)   im: 927694534
 
-[Info   : Unity Log] 01/01/2022 17:30:39: clone 693
+[Info   : Unity Log] 01/03/2022 17:03:31: Setting selected recipe 1
 
-[Info   : Unity Log] 01/01/2022 17:30:41: Sending disconnect msg
+[Info   : Unity Log] 01/03/2022 17:03:31: UI Group status changed root = True
 
-[Info   : Unity Log] 01/01/2022 17:30:43: FOund selected Button_yes
+[Info   : Unity Log] 01/03/2022 17:03:31: UI Group status changed Player = True
 
-[Info   : Unity Log] 01/01/2022 17:30:43: ZNet OnDestroy
+[Info   : Unity Log] 01/03/2022 17:03:33: Player 927694534 wants to open piece_chest_wood(Clone)   im: 927694534
 
-[Info   : Unity Log] 01/01/2022 17:30:43: Net scene destroyed
+[Info   : Unity Log] 01/03/2022 17:03:33: Setting selected recipe 1
 
-[Info   : Unity Log] 01/01/2022 17:30:44: Steam manager on destroy
+[Info   : Unity Log] 01/03/2022 17:03:33: UI Group status changed root = True
 
-[Warning: Unity Log] 01/01/2022 17:30:44: Local player destroyed
+[Info   : Unity Log] 01/03/2022 17:03:33: UI Group status changed Player = True
+
+[Info   : Unity Log] 01/03/2022 17:03:34: Player 927694534 wants to open piece_chest_wood(Clone)   im: 927694534
+
+[Info   : Unity Log] 01/03/2022 17:03:34: Setting selected recipe 1
+
+[Info   : Unity Log] 01/03/2022 17:03:34: UI Group status changed root = True
+
+[Info   : Unity Log] 01/03/2022 17:03:34: UI Group status changed Player = True
+
+[Info   : Unity Log] 01/03/2022 17:03:36: Player 927694534 wants to open piece_chest_wood(Clone)   im: 927694534
+
+[Info   : Unity Log] 01/03/2022 17:03:36: Setting selected recipe 1
+
+[Info   : Unity Log] 01/03/2022 17:03:36: UI Group status changed root = True
+
+[Info   : Unity Log] 01/03/2022 17:03:36: UI Group status changed Player = True
+
+[Info   : Unity Log] 01/03/2022 17:03:38: Player 927694534 wants to open piece_chest_wood(Clone)   im: 927694534
+
+[Info   : Unity Log] 01/03/2022 17:03:38: Setting selected recipe 1
+
+[Info   : Unity Log] 01/03/2022 17:03:38: UI Group status changed root = True
+
+[Info   : Unity Log] 01/03/2022 17:03:38: UI Group status changed Player = True
+
+[Info   : Unity Log] 01/03/2022 17:03:39: Player 927694534 wants to open piece_chest_wood(Clone)   im: 927694534
+
+[Info   : Unity Log] 01/03/2022 17:03:39: Setting selected recipe 1
+
+[Info   : Unity Log] 01/03/2022 17:03:39: UI Group status changed root = True
+
+[Info   : Unity Log] 01/03/2022 17:03:39: UI Group status changed Player = True
+
+[Info   : Unity Log] 01/03/2022 17:03:40: Player 927694534 wants to open piece_chest_wood(Clone)   im: 927694534
+
+[Info   : Unity Log] 01/03/2022 17:03:40: Setting selected recipe 1
+
+[Info   : Unity Log] 01/03/2022 17:03:40: UI Group status changed root = True
+
+[Info   : Unity Log] 01/03/2022 17:03:40: UI Group status changed Player = True
+
+[Info   : Unity Log] 01/03/2022 17:03:50: Player 927694534 wants to open piece_chest_wood(Clone)   im: 927694534
+
+[Info   : Unity Log] 01/03/2022 17:03:50: Setting selected recipe 1
+
+[Info   : Unity Log] 01/03/2022 17:03:51: UI Group status changed root = True
+
+[Info   : Unity Log] 01/03/2022 17:03:51: UI Group status changed Player = True
+
+[Info   : Unity Log] 01/03/2022 17:04:03: Player 927694534 wants to open piece_chest_wood(Clone)   im: 927694534
+
+[Info   : Unity Log] 01/03/2022 17:04:03: Setting selected recipe 1
+
+[Info   : Unity Log] 01/03/2022 17:04:03: UI Group status changed root = True
+
+[Info   : Unity Log] 01/03/2022 17:04:03: UI Group status changed Player = True
+
+[Info   : Unity Log] 01/03/2022 17:04:07: Player 927694534 wants to open piece_chest_wood(Clone)   im: 927694534
+
+[Info   : Unity Log] 01/03/2022 17:04:07: Setting selected recipe 1
+
+[Info   : Unity Log] 01/03/2022 17:04:07: UI Group status changed root = True
+
+[Info   : Unity Log] 01/03/2022 17:04:07: UI Group status changed Player = True
+
+[Info   : Unity Log] 01/03/2022 17:04:12: Player 927694534 wants to open piece_chest_wood(Clone)   im: 927694534
+
+[Info   : Unity Log] 01/03/2022 17:04:12: Setting selected recipe 0
+
+[Info   : Unity Log] 01/03/2022 17:04:12: UI Group status changed root = True
+
+[Info   : Unity Log] 01/03/2022 17:04:12: UI Group status changed Player = True
+
+[Info   : Unity Log] 01/03/2022 17:04:13: Player 927694534 wants to open piece_chest_wood(Clone)   im: 927694534
+
+[Info   : Unity Log] 01/03/2022 17:04:13: Setting selected recipe 0
+
+[Info   : Unity Log] 01/03/2022 17:04:13: UI Group status changed root = True
+
+[Info   : Unity Log] 01/03/2022 17:04:13: UI Group status changed Player = True
+
+[Info   : Unity Log] 01/03/2022 17:04:14: Player 927694534 wants to open piece_chest_wood(Clone)   im: 927694534
+
+[Info   : Unity Log] 01/03/2022 17:04:14: Setting selected recipe 0
+
+[Info   : Unity Log] 01/03/2022 17:04:15: UI Group status changed root = True
+
+[Info   : Unity Log] 01/03/2022 17:04:15: UI Group status changed Player = True
+
+[Info   : Unity Log] 01/03/2022 17:04:21: Player 927694534 wants to open piece_chest_wood(Clone)   im: 927694534
+
+[Info   : Unity Log] 01/03/2022 17:04:21: Setting selected recipe 0
+
+[Info   : Unity Log] 01/03/2022 17:04:22: UI Group status changed root = True
+
+[Info   : Unity Log] 01/03/2022 17:04:22: UI Group status changed Player = True
+
+[Info   : Unity Log] 01/03/2022 17:04:22: Player 927694534 wants to open piece_chest(Clone)   im: 927694534
+
+[Info   : Unity Log] 01/03/2022 17:04:22: Setting selected recipe 0
+
+[Info   : Unity Log] 01/03/2022 17:04:23: UI Group status changed root = True
+
+[Info   : Unity Log] 01/03/2022 17:04:23: UI Group status changed Player = True
+
+[Info   : Unity Log] 01/03/2022 17:04:26: Player 927694534 wants to open piece_chest_wood(Clone)   im: 927694534
+
+[Info   : Unity Log] 01/03/2022 17:04:26: Setting selected recipe 0
+
+[Info   : Unity Log] 01/03/2022 17:04:26: UI Group status changed root = True
+
+[Info   : Unity Log] 01/03/2022 17:04:26: UI Group status changed Player = True
+
+[Info   : Unity Log] 01/03/2022 17:04:31: Player 927694534 wants to open piece_chest_wood(Clone)   im: 927694534
+
+[Info   : Unity Log] 01/03/2022 17:04:31: Setting selected recipe 0
+
+[Info   : Unity Log] 01/03/2022 17:04:31: UI Group status changed root = True
+
+[Info   : Unity Log] 01/03/2022 17:04:31: UI Group status changed Player = True
+
+[Info   : Unity Log] 01/03/2022 17:04:35: Player 927694534 wants to open piece_chest_wood(Clone)   im: 927694534
+
+[Info   : Unity Log] 01/03/2022 17:04:35: Setting selected recipe 0
+
+[Info   : Unity Log] 01/03/2022 17:04:35: UI Group status changed root = True
+
+[Info   : Unity Log] 01/03/2022 17:04:35: UI Group status changed Player = True
+
+[Info   : Unity Log] 01/03/2022 17:04:38: Player 927694534 wants to open piece_chest_wood(Clone)   im: 927694534
+
+[Info   : Unity Log] 01/03/2022 17:04:38: Setting selected recipe 0
+
+[Info   : Unity Log] 01/03/2022 17:04:38: UI Group status changed root = True
+
+[Info   : Unity Log] 01/03/2022 17:04:38: UI Group status changed Player = True
+
+[Info   : Unity Log] 01/03/2022 17:04:47: Player 927694534 wants to open piece_chest_wood(Clone)   im: 927694534
+
+[Info   : Unity Log] 01/03/2022 17:04:47: Setting selected recipe 0
+
+[Info   : Unity Log] 01/03/2022 17:04:47: UI Group status changed root = True
+
+[Info   : Unity Log] 01/03/2022 17:04:47: UI Group status changed Player = True
+
+[Info   : Unity Log] 01/03/2022 17:04:51: Player 927694534 wants to open piece_chest_wood(Clone)   im: 927694534
+
+[Info   : Unity Log] 01/03/2022 17:04:51: Setting selected recipe 0
+
+[Info   : Unity Log] 01/03/2022 17:04:51: UI Group status changed root = True
+
+[Info   : Unity Log] 01/03/2022 17:04:51: UI Group status changed Player = True
+
+[Info   : Unity Log] 01/03/2022 17:04:54: Player 927694534 wants to open piece_chest(Clone)   im: 927694534
+
+[Info   : Unity Log] 01/03/2022 17:04:54: Setting selected recipe 0
+
+[Info   : Unity Log] 01/03/2022 17:04:54: UI Group status changed root = True
+
+[Info   : Unity Log] 01/03/2022 17:04:54: UI Group status changed Player = True
+
+[Info   : Unity Log] CraftingFilter updating recipes
+[Info   : Unity Log] 01/03/2022 17:05:00: Setting selected recipe 0
+
+[Info   : Unity Log] 01/03/2022 17:05:00: UI Group status changed root = True
+
+[Info   : Unity Log] 01/03/2022 17:05:00: UI Group status changed Player = True
+
+[Info   : Unity Log] 01/03/2022 17:05:09: Disabling TELEPORT  character_trigger
+
+[Info   : Unity Log] 01/03/2022 17:05:09: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 01/03/2022 17:05:11: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 01/03/2022 17:05:34: Setting selected recipe 0
+
+[Info   : Unity Log] 01/03/2022 17:05:34: UI Group status changed root = True
+
+[Info   : Unity Log] 01/03/2022 17:05:34: UI Group status changed Player = True
+
+[Info   : Unity Log] ConsoleTweaks Opening console
+[Info   : Unity Log] ConsoleTweaks Loaded 1838 strings
+[Info   : Unity Log] 01/03/2022 17:06:03: UI Group status changed MenuRoot = True
+
+[Info   : Unity Log] 01/03/2022 17:06:05: UI Group status changed MenuRoot = False
+
+[Info   : Unity Log] 01/03/2022 17:06:05: Game - OnApplicationQuit
+
+[Info   : Unity Log] 01/03/2022 17:06:05: Shuting down
+
+[Info   : Unity Log] 01/03/2022 17:06:05: Uncompressed size 8394851
+
+[Info   : Unity Log] 01/03/2022 17:06:06: Compressed size 17212
+
+[Info   : Unity Log] 01/03/2022 17:06:06: ZNet Shutdown
+
+[Info   : Unity Log] 01/03/2022 17:06:06: clone 718
+
+[Info   : Unity Log] 01/03/2022 17:06:09: Sending disconnect msg
 
