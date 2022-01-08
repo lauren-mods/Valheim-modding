@@ -1,3 +1,3 @@
 # Valheim Modding
 
-Repository for Valheim mods and miscellany.
+Repository for my Valheim mods and miscellany.
