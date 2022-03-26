@@ -1,17 +1,23 @@
 # Bepswitch
+
 An on-off switch for Bepinex. Now with profiles!
 
-## What's new?
+## What's new in 4.0?
 
-- 3.1 Added the ability to save and/or load ***only*** configs or plugins.
+[Full changelog here]()
 
-This should make it easier to maintain profiles if you don't need to update configs or plugins.
+A completely new verision
 
-- 3.0 Now with profiles to save and load plugin and configs.
+Bepswitch now looks at a list of files (and optionally a list of folders) to copy to your plugins directory.
+
 
 ## What is Bepswitch?
 
-This is a batch (.bat) file that switches Bepinex on and off so you can play either vanilla or modded easily. As of 3.0, it also allows you to save loadouts to a profile and load profiles so you can more easily switch between loadouts. This is useful if you are in different servers or like diferent mods for different worlds.
+This is a batch (.bat) file that can:
+
+1. Switch Bepinex off
+2. Switch Bepinex on
+3. Load plugins specified in a list from a plugins-master folder
 
 It is NOT a mod manager in the sense that it does not run in the background while you are playing, so if you have an old potato PC like me, it is very useful!
 
