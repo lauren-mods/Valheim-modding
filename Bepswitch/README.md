@@ -36,7 +36,7 @@ It is NOT a mod manager in the sense that it does not run in the background whil
 
 e.g. `D:\Steam\steamapps\common\Valheim\bepswitch.bat`
 
-![img](https://i.ibb.co/r6CkjN5/valheim-folder.jpg)
+![img](https://github.com/lauren-mods/Valheim-modding/blob/main/Bepswitch/valheim-folder.jpg)
 
 ### 2. Run Bepswitch setup
 
