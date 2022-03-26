@@ -6,60 +6,70 @@ An on-off switch for Bepinex. Now with profiles!
 
 [Full changelog here](https://github.com/lauren-mods/Valheim-modding/blob/main/Bepswitch/changelogs.md)
 
-A completely new verision
+Bepswitch 4.0 is a completely new version and install and use instructions have changed. It now looks at a list of files (and optionally a list of folders) to copy to your plugins directory.
 
-Bepswitch now looks at a list of files (and optionally a list of folders) to copy to your plugins directory.
+If you prefer the old (3.0) version, it will remain available [here](https://github.com/lauren-mods/Valheim-modding/blob/main/Bepswitch/thunderstore-packs/bepswitch-3-1.zip), and the old readme is [here](https://github.com/lauren-mods/Valheim-modding/blob/main/Bepswitch/3-0-readme.md).
 
 ## What is Bepswitch?
 
-This is a batch (.bat) file that can:
+This is a batch (.bat) file that you can use to:
 
-1. Switch Bepinex off
-2. Switch Bepinex on
-3. Load plugins specified in a list from a plugins-master folder
+- load a list of plugins
+- switch Bepinex on and off
+
+The options menu is:
+
+```text
+1. Clear plugins
+2. Load plugins specified in a list from a plugins-master folder
+3. Switch Bepinex off
+4. Switch Bepinex on
+5. HELP
+6. Quit
+```
 
 It is NOT a mod manager in the sense that it does not run in the background while you are playing, so if you have an old potato PC like me, it is very useful!
 
-## How do I install it?
+## How do I set it up?
 
-Download the mod and put bepswitch.bat in your Valheim folder.
-Depending on your install, this should look like:
+### 1. Put bepswitch.bat in your MAIN Valheim folder
 
-D:\Steam\steamapps\common\Valheim
-
-The contents of your folder should look something like this:
+e.g. `D:\Steam\steamapps\common\Valheim\bepswitch.bat`
 
 ![img](https://i.ibb.co/r6CkjN5/valheim-folder.jpg)
-I suggest creating a shortcut of the file and putting it in a more easy to find location such as your desktop.
 
-## How do I use it?
+### 2. Run Bepswitch setup
 
-Double click on bepswitch.bat to run. You will see this menu:
+Double click Bepswtich.bat to run and choose Quit (6) to exit (or just close the window).
 
-```
-What do you want to do?
--
-1) Play Vanilla (disable Bepinex)
-2) Play Modded (enable Bepinex)
-3) Save a Profile (also creates)
-4) Load a Profile
-5) Create an Empty Profile
-```
+It will create a folder called Bepswitch inside your Bepinex folder.
 
-**Options 1) & 2) allow you to enable or disable mods (BepInEx only).**
-Press 1 to disable mods, press 2 to enable mods. You can do this each time you want to switch.
+You only need to do this the first time.
 
-**Options 3), 4), and 5) let you work with 'profiles' or loadouts.**
-***'Save'*** copies all your plugins and config files to a profile folder which is saved in BepInEx\Bepswitch-profiles
-***'Load'*** clears your current plugins and configs and copies files ***from*** a profile folder. You must ***save a profile first*** to use ***'Load'***
-***'Create'*** will make an empty profile folder for you to manually copy plugins and config to. Useful if you are making a modpack for example.
+### 3. Put all your plugins in the plugins-master folder
 
-**NOTE: there are currently 3 profiles available. If you would like me to add more, please message in the comments on nexus or create an issue in Github**
+This is where they will be copied from. It should contain ALL the plugins for ALL profiles. When you update your plugins, make sure to update them here.
+
+### 5. Create and edit profiles
+
+Make a list of all the files (.dll) in your plugins folder in the list.txt file for your profile, and a list of any folders in the folders.txt file (some mods like Planbuild have folders).
+
+You can repeat for profiles 1, 2 and 3. There are 3 max but you can edit this in the batch file or ask me.
+
+## 6. Load a profile
+
+Run (double click) bepswitch.bat.
+
+Choose 1 to clear your old plugins.
+
+Choose 2 to load from a profile and the plugins will be copied across from the master folder.
 
 ## How do I ask questions / give feedback?
+
 Let me know in the Nexus comments or Github :)
 
 ## Why did you make it?
+
 I made this because I prefer to manage mods manually rather than using a manager due to my potato pc, and did not want to have to edit files each time I wanted to play vanilla.
 
 I also like learning new code-ish stuff, and figuring this out was fun :)

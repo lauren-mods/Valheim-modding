@@ -1,17 +1,17 @@
 echo off
 
 :setup
-if not exist "BepInEx\Bepswitch\list-1" mkdir BepInEx\Bepswitch\list-1
-if not exist "BepInEx\Bepswitch\list-2" mkdir BepInEx\Bepswitch\list-2
-if not exist "BepInEx\Bepswitch\list-3" mkdir BepInEx\Bepswitch\list-3
+if not exist "BepInEx\Bepswitch\profile-1" mkdir BepInEx\Bepswitch\profile-1
+if not exist "BepInEx\Bepswitch\profile-2" mkdir BepInEx\Bepswitch\profile-2
+if not exist "BepInEx\Bepswitch\profile-3" mkdir BepInEx\Bepswitch\profile-3
 
-if not exist "BepInEx\Bepswitch\list-1\files" echo > BepInEx\Bepswitch\list-1\files.txt
-if not exist "BepInEx\Bepswitch\list-2\files" echo > BepInEx\Bepswitch\list-2\files.txt
-if not exist "BepInEx\Bepswitch\list-3\files" echo > BepInEx\Bepswitch\list-3\files.txt
+if not exist "BepInEx\Bepswitch\profile-1\files" echo List your files (.dll) here > BepInEx\Bepswitch\profile-1\files.txt
+if not exist "BepInEx\Bepswitch\profile-2\files" echo List your files (.dll) here > BepInEx\Bepswitch\profile-2\files.txt
+if not exist "BepInEx\Bepswitch\profile-3\files" echo List your files (.dll) here > BepInEx\Bepswitch\profile-3\files.txt
 
-if not exist "BepInEx\Bepswitch\list-1\folders" echo > BepInEx\Bepswitch\list-1\folders.txt
-if not exist "BepInEx\Bepswitch\list-2\folders" echo > BepInEx\Bepswitch\list-2\folders.txt
-if not exist "BepInEx\Bepswitch\list-3\folders" echo > BepInEx\Bepswitch\list-3\folders.txt
+if not exist "BepInEx\Bepswitch\profile-1\folders" echo List your folders here > BepInEx\Bepswitch\profile-1\folders.txt
+if not exist "BepInEx\Bepswitch\profile-2\folders" echo List your folders here > BepInEx\Bepswitch\profile-2\folders.txt
+if not exist "BepInEx\Bepswitch\profile-3\folders" echo List your folders here > BepInEx\Bepswitch\profile-3\folders.txt
 
 if not exist "BepInEx\Bepswitch\deleted" mkdir BepInEx\Bepswitch\deleted
 
@@ -22,17 +22,22 @@ echo =========================
 echo What do you want to do?
 echo =========================
 echo -
-echo 1) Play Vanilla
-echo 2) Play Modded
-echo 3) Load Plugins from List
-echo 4) HELP
+echo 1) Clear plugins
+echo 2) Load plugins from a list
+echo 3) Switch BepInEx off (vanilla)
+echo 4) Switch BepInEx on (modded)
+echo 5) HELP
+echo 6) Quit
 echo -
 set /p op=Please type the number and press 'return/enter':
 
-if "%op%"=="1" powershell -Command "(gc doorstop_config.ini) -replace 'enabled=true', 'enabled=false' | Out-File -encoding ASCII doorstop_config.ini" & goto vanilla
-if "%op%"=="2" powershell -Command "(gc doorstop_config.ini) -replace 'enabled=false', 'enabled=true' | Out-File -encoding ASCII doorstop_config.ini" & goto modded
-if "%op%"=="3" goto loadplugins
-if "%op%"=="4" goto help
+if "%op%"=="1" goto clear
+if "%op%"=="2" goto loadplugins
+if "%op%"=="3" powershell -Command "(gc doorstop_config.ini) -replace 'enabled=true', 'enabled=false' | Out-File -encoding ASCII doorstop_config.ini" & goto vanilla
+if "%op%"=="4" powershell -Command "(gc doorstop_config.ini) -replace 'enabled=false', 'enabled=true' | Out-File -encoding ASCII doorstop_config.ini" & goto modded
+if "%op%"=="5" goto help
+if "%op%"=="6" goto exit
+
 
 echo =========================
 echo That doesn't seem right! Please type 1, 2, or 3.
@@ -54,18 +59,27 @@ echo =========================
 echo You're now playing modded Valheim!
 goto exit
 
+:clear
+echo =========================
+echo Your plugins have been cleared to Bepswitch\deleted.
+echo Do you want to load a profile?
+echo (y/n) 
+set /p op=Please type y / n and press 'return/enter':
+if "%op%"=="y" goto loadplugins
+if "%op%"=="n" goto exit
+
 :loadplugins
 echo =========================
 echo Bepswitch will DELETE your current plugins and COPY a list of files from plugins-master. Which list would you like to copy from?
-echo 1) list-1
-echo 2) list-2
-echo 3) list-3
+echo 1) profile-1
+echo 2) profile-2
+echo 3) profile-3
 echo 4) Go back to main menu!
 echo -
 set /p op=Please type the number and press 'return/enter':
-if "%op%"=="1" set "selectedprofile=list-1" & goto cont
-if "%op%"=="2" set "selectedprofile=list-2" & goto cont
-if "%op%"=="3" set "selectedprofile=list-3" & goto cont
+if "%op%"=="1" set "selectedprofile=profile-1" & goto cont
+if "%op%"=="2" set "selectedprofile=profile-2" & goto cont
+if "%op%"=="3" set "selectedprofile=profile-3" & goto cont
 if "%op%"=="4" goto start
 echo =========================
 echo That doesn't seem right! Please type 1, 2, 3, or 4.
