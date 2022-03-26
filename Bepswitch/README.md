@@ -20,12 +20,12 @@ This is a batch (.bat) file that you can use to:
 The options menu is:
 
 ```text
-1. Clear plugins
-2. Load plugins specified in a list from a plugins-master folder
-3. Switch Bepinex off
-4. Switch Bepinex on
-5. HELP
-6. Quit
+1) Clear plugins
+2) Load plugins from a list
+3) Switch BepInEx off (vanilla)
+4) Switch BepInEx on (modded)
+5) HELP
+6) Quit
 ```
 
 It is NOT a mod manager in the sense that it does not run in the background while you are playing, so if you have an old potato PC like me, it is very useful!
