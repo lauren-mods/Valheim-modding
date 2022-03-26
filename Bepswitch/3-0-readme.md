@@ -1,14 +1,4 @@
-# Bepswitch
-
-An on-off switch for Bepinex. Now with profiles!
-
-## What's new in 4.0?
-
-[Full changelog here](https://github.com/lauren-mods/Valheim-modding/blob/main/Bepswitch/changelogs.md)
-
-A completely new verision
-
-Bepswitch now looks at a list of files (and optionally a list of folders) to copy to your plugins directory.
+# This is the old readme for 3.0
 
 ## What is Bepswitch?
 
