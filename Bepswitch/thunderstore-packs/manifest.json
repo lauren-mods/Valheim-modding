@@ -1,7 +1,7 @@
 {
     "name": "Bepswitch",
-    "version_number": "3.1.0",
+    "version_number": "4.0.0",
     "website_url": "https://www.nexusmods.com/valheim/mods/1281",
-    "description": "Bepswitch: An on-off switch for BepInEx. This is a batch (.bat) file that switches Bepinex on and off so you can play either vanilla or modded easily. Now with profile saving and loading plugins and configs.",
+    "description": "Bepswitch: An on-off switch for BepInEx. This is a batch (.bat) file that switches Bepinex on and off so you can play either vanilla or modded easily. Now with better profile loading",
     "dependencies": []
 }
