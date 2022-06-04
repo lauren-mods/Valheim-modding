@@ -1,0 +1,28 @@
+
+{
+    "customrecipes" : [
+        {
+            "name" : "Recipe_Bait",
+            "item" : "FishingBait",
+            "amount" : 100,
+            "craftingStation" : "piece_cauldron",
+            "minStationLevel" : 1,
+            "enabled"         : true,
+            "repairStation"   : "",
+            "resources"       : [
+                {
+                    "item" : "FishRaw",
+                    "amount" : 1
+                },
+                {
+                    "item": "RawMeat",
+                    "amount": 5
+                },
+                {
+                    "item": "Honey",
+                    "amount": 10
+                }
+            ]
+        }
+    ]
+}
