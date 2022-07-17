@@ -6,7 +6,9 @@ A batch file to quickly backup local character and world save files.
 
 ## What does it do?
 
-Backupheim is a batch file that you run (double click) to update either your world files, your character files, or both.  
+Backupheim is a batch file that you run (double click) to update either your world files, your character files, or both.
+
+It **does not work while the game is running**. You must close the game to run Backupheim.
 
 It **does not currently back up cloud saves**. There is a beta which may or may not work. If you can help with testing, please respond to the issue [here](https://github.com/lauren-mods/Valheim-modding/issues/2).
 
