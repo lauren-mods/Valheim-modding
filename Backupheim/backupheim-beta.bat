@@ -2,7 +2,7 @@ echo off
 
 rem Steam ID setup. Replace 'here' with your steam id.
 
-set "steamid=none"
+set "steamid=here"
 
 rem Local source folder setup.
 
