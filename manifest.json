@@ -1,0 +1,7 @@
+{
+    "name": "Backupheim",
+    "version_number": "2.0.1",
+    "website_url": "https://www.nexusmods.com/valheim/mods/1325",
+    "description": "A batch file to quickly backup player and world files. Now works with the new local save location - local files only - beta with steam cloud backups in progress.",
+    "dependencies": []
+}
