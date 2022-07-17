@@ -24,7 +24,7 @@ It is a ***manual backup not automatic*** so you will need to ***run backupheim.
 
 1. Put backupheim.bat anywhere on your computer.
 2. Double click to run.
-    *Note: When you first run backupheim.bat, a folder will be created next to it called Valheim-Backups. This is where your backups will go. If you do not like the location, either move backupheim.bat and run it again, or [#editing-the-batch-file](edit the batch file).*
+    *Note: When you first run backupheim.bat, a folder will be created next to it called Valheim-Backups. This is where your backups will go. If you do not like the location, either move backupheim.bat and run it again, or [edit the batch file](#editing-the-batch-file).*
 
 3. Backupheim will give you four options, type the number for the option you want, and then press return/enter.
 
