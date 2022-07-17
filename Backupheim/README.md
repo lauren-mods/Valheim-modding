@@ -1,12 +1,14 @@
 # Backupheim
 
-A batch file to quickly backup player and world files.
+A batch file to quickly backup local character and world save files.
 [Github](https://github.com/lauren-aka-proudunicornmods/Backupheim)
 [Nexus](https://www.nexusmods.com/valheim/mods/1325)
 
 ## What does it do?
 
 Backupheim is a batch file that you run (double click) to update either your world files, your character files, or both.  
+
+It **does not currently back up cloud saves**. This is due to Xcopy and spaces. If you can help with this, please respond to the issue [here]().
 
 It copies files from the **default save-game location** on Windows PCs to a backup folder in the **same location as the batch file**.  
 
@@ -48,14 +50,11 @@ Be careful with the quotation marks - it is easy to delete one by accident!
 For destination locations, you will need the section that looks like this:
 
 ```batch
-rem Destination folder setup
-
-set "datestring=%date:~-4,4%"-"%date:~-7,2%"-"%date:~-10,2%"
+rem Edit 'Valheim-Backups' here (2x) to change the folder name.
 mkdir %~dp0\Valheim-Backups\%datestring%
 set "destination=%~dp0\Valheim-Backups\%datestring%"
 ```
 
-Don't edit the datestring line unless you know how to format dates in command line!
 You can see `%~dp0\Valheim-Backups\` is written 2 times. Edit this, and make sure it is the same both times.
 Do not remove `%datestring%` at the end of the path. This is what creates a dated backup folder!
 
