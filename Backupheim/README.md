@@ -4,7 +4,8 @@ A batch file to quickly backup local character and world save files.
 
 Links: [Github](https://github.com/lauren-aka-proudunicornmods/Backupheim), [Nexus](https://www.nexusmods.com/valheim/mods/1325)
 
-[Click here to see what's new (changelogs).](https://github.com/lauren-mods/Valheim-modding/blob/main/Backupheim/Changelogs.md)
+## What's new?
+See [Changelogs](https://github.com/lauren-mods/Valheim-modding/blob/main/Backupheim/Changelogs.md)
 
 ## What does it do?
 
