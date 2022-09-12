@@ -12,4 +12,4 @@ Repository for my Valheim mods and miscellany.
 
 # My frequently used resources (links)
 
-(Azumatt's Creating a Modpack Video)[https://youtu.be/svfm29pNOEk]
+[Azumatt's Creating a Modpack Video](https://youtu.be/svfm29pNOEk)
