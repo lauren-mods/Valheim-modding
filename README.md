@@ -19,3 +19,7 @@ Repository for my Valheim mods and miscellany.
 # My notes
 
 [Notes](https://github.com/lauren-mods/Valheim-modding/blob/main/Notes.md)
+
+# Modpack
+
+[Holloheim](https://github.com/lauren-mods/Holloheim-Modpack)
